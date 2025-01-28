@@ -1,0 +1,5 @@
+/home/virtualx/Bayesian_model_comparison/GP_experiments/GP_Overfitting/mlp_gp_mean.ipynb - A. Overfitting in Gaussian Processes
+# -   B. Details on the Conditional Marginal Likelihood
+/home/virtualx/Bayesian_model_comparison/plots/density_model.ipynb - C. Details on the Fourier model
+/home/virtualx/Bayesian_model_comparison/plots/fourier_plots.ipynb - C. Details on the Fourier model
+/home/virtualx/Bayesian_model_comparison/Laplace_experiments/learning_curves - D. Training speed of Deep Neural Networks
